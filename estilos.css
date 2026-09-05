@@ -66,6 +66,12 @@ main {
     padding: 1rem 3rem 1rem 3rem;
 }
 
+footer {
+    padding: 1rem 3rem;
+    background-color: chocolate;
+    color: white;
+}
+
 section article {
     margin: 0rem 1rem 0rem 1rem
 }
